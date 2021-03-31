@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import math
-import os
-import sys
-import unittest
+import
 
 import exercice
 
